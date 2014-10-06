@@ -1,8 +1,0 @@
-.row {
-	background-color: #aaa;
-}
-.row > [class^="col-"] {
-	background-color: #eee;
-	margin-top: 10px;
-	text-align: center;
-}
