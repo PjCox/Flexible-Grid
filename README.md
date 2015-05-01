@@ -1,6 +1,6 @@
 Flexible-Grid
 =============
 
-A CSS Flexible Grid for Layouts
+A CSS Flexible Grid for Simple quick Layouts.
 
-Simple 12 column grid for quick layouts. Has a clearfix class for float issues.
+12 column grid for easy layouts. Has a clearfix class for float issues.
